@@ -109,3 +109,9 @@ Upload article URLs or provide links → Ask questions → Get contextual answer
 * 📊 Dashboard for financial insights
 * 🧾 PDF/CSV support for analyst reports
 * 🕵️ Sentiment analysis on market news
+
+🎮🧑🏻‍💻 Previews
+
+<img width="1121" height="789" alt="image" src="https://github.com/user-attachments/assets/b884325b-f7dc-47c4-ba13-c5582a491644" />
+<img width="1118" height="785" alt="image" src="https://github.com/user-attachments/assets/cda0ad03-08b3-4597-bf15-d07d72560e33" />
+
